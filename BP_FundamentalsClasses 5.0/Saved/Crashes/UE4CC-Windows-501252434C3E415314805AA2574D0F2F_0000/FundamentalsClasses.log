@@ -1,0 +1,720 @@
+﻿Log file open, 05/16/18 11:24:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FundamentalsClasses
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1332162153) SRandInit(-1332162153).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.861984
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.16-15.24.09:498][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.16-15.24.09:498][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.16-15.24.09:574][  0]LogInit: Computer: Z3913
+[2018.05.16-15.24.09:574][  0]LogInit: User: wesbunn
+[2018.05.16-15.24.09:574][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.05.16-15.24.09:574][  0]LogInit: High frequency timer resolution =2.045898 MHz
+[2018.05.16-15.24.09:574][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.05.16-15.24.09:575][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.16-15.24.09:575][  0]LogMemory: Process Physical Memory: 276.06 MB used, 276.06 MB peak
+[2018.05.16-15.24.09:575][  0]LogMemory: Process Virtual Memory: 276.35 MB used, 276.35 MB peak
+[2018.05.16-15.24.09:575][  0]LogMemory: Physical Memory: 18969.62 MB used,  13726.48 MB free, 32696.10 MB total
+[2018.05.16-15.24.09:575][  0]LogMemory: Virtual Memory: 631.32 MB used,  13726.48 MB free, 8388608.00 MB total
+[2018.05.16-15.24.10:311][  0]LogInit: Using OS detected language (en-US).
+[2018.05.16-15.24.10:311][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.16-15.24.10:480][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.16-15.24.11:298][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.05.16-15.24.11:298][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.05.16-15.24.11:298][  0]LogInit: Setting process to DPI aware
+[2018.05.16-15.24.11:434][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.05.16-15.24.11:434][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.05.16-15.24.11:434][  0]LogInit: Setting process to DPI aware
+[2018.05.16-15.24.12:616][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.16-15.24.12:669][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.05.16-15.24.12:669][  0]LogD3D11RHI:       8077/0/16092 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.16-15.24.12:669][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.16-15.24.12:679][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.16-15.24.12:679][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.16-15.24.12:679][  0]LogWindows: EnumDisplayDevices:
+[2018.05.16-15.24.12:679][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.05.16-15.24.12:680][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.05.16-15.24.12:680][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.16-15.24.12:680][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.16-15.24.12:680][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.05.16-15.24.12:680][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.05.16-15.24.12:681][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.05.16-15.24.12:681][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.05.16-15.24.12:681][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.05.16-15.24.12:681][  0]LogD3D11RHI:   Driver Version: 391.01 (internal:23.21.13.9101, unified:391.01)
+[2018.05.16-15.24.12:681][  0]LogD3D11RHI:      Driver Date: 2-23-2018
+[2018.05.16-15.24.12:681][  0]LogRHI: Texture pool is 5654 MB (70% of 8077 MB)
+[2018.05.16-15.24.12:708][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.16-15.24.12:810][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.16-15.24.12:881][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../Downloads/Fundamentals/FundamentalsClasses/Intermediate/Shaders/WorkingDirectory/10952/).
+[2018.05.16-15.24.12:882][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/wes.bunn/AppData/Local/Temp/UnrealShaderWorkingDir/5FEAF71C4EA26A144809B3933BD3991C/'.
+[2018.05.16-15.24.12:891][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.16-15.24.16:276][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.16-15.24.16:361][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.16-15.24.16:447][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.16-15.24.16:532][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.16-15.24.16:640][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.16-15.24.16:733][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.16-15.24.16:819][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.16-15.24.16:904][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.16-15.24.16:983][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.16-15.24.17:069][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.16-15.24.17:154][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.16-15.24.17:244][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.16-15.24.17:332][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.16-15.24.17:420][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.16-15.24.17:594][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.16-15.24.17:594][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.16-15.24.17:708][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.16-15.24.17:772][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.16-15.24.17:968][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.16-15.24.18:018][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.16-15.24.18:102][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.16-15.24.18:184][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.16-15.24.18:267][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.16-15.24.18:361][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.16-15.24.18:361][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.16-15.24.19:876][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.16-15.24.20:238][  0]LogDerivedDataCache: Loaded boot cache 0.36s 80MB C:/Users/wes.bunn/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.16-15.24.20:238][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/wes.bunn/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.16-15.24.20:238][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Downloads/Fundamentals/FundamentalsClasses/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.16-15.24.20:238][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.16-15.24.20:238][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Downloads/Fundamentals/FundamentalsClasses/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.16-15.24.20:238][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.16-15.24.20:363][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.16-15.24.20:375][  0]LogDerivedDataCache: Using Local data cache path C:/Users/wes.bunn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.16-15.24.20:443][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.16-15.24.20:444][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.16-15.24.20:489][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.16-15.24.20:489][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.16-15.24.24:867][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.16-15.24.26:580][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.16-15.24.26:721][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.16-15.24.26:721][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.16-15.24.26:721][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.16-15.24.26:721][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.16-15.24.26:721][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.16-15.24.27:044][  0]LogNetVersion: FundamentalsClasses , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2676440508)
+[2018.05.16-15.24.28:126][  0]LogAssetRegistry: FAssetRegistry took 0.0306 seconds to start up
+[2018.05.16-15.24.32:518][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.062292 seconds
+[2018.05.16-15.24.32:541][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.16-15.24.32:542][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.05.16-15.24.32:542][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.16-15.24.32:662][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.16-15.24.55:678][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.16-15.24.55:757][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.16-15.24.57:417][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.16-15.24.58:485][  0]SourceControl: Source control is disabled
+[2018.05.16-15.24.58:485][  0]SourceControl: Source control is disabled
+[2018.05.16-15.24.58:733][  0]SourceControl: Source control is disabled
+[2018.05.16-15.24.58:873][  0]SourceControl: Source control is disabled
+[2018.05.16-15.25.00:877][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.16-15.25.01:415][  0]LogOcInput: OculusInput pre-init called
+[2018.05.16-15.25.02:105][  0]LogEngine: Initializing Engine...
+[2018.05.16-15.25.02:177][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.05.16-15.25.03:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.16-15.25.03:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.16-15.25.03:425][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.16-15.25.03:591][  0]LogInit: XAudio2 using 'Speakers (Logitech G35 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-15.25.03:624][  0]LogInit: FAudioDevice initialized.
+[2018.05.16-15.25.03:833][  0]LogDerivedDataCache: Saved boot cache 0.21s 91MB C:/Users/wes.bunn/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.16-15.25.03:847][  0]LogInit: Texture streaming: Enabled
+[2018.05.16-15.25.04:154][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.16-15.25.04:408][  0]LogInit: Transaction tracking system initialized
+[2018.05.16-15.25.05:109][  0]BlueprintLog: New page: Editor Load
+[2018.05.16-15.25.07:358][  0]LocalizationService: Localization service is disabled
+[2018.05.16-15.25.09:448][  0]LogConsoleResponse: Display: 
+[2018.05.16-15.25.12:393][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.16-15.25.12:393][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.16-15.25.12:393][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.16-15.25.13:411][  0]LogFileCache: Scanning file cache for directory 'D:/Downloads/Fundamentals/FundamentalsClasses/Content/' took 0.02s
+[2018.05.16-15.25.15:834][  0]SourceControl: Source control is disabled
+[2018.05.16-15.25.15:834][  0]Cmd: MAP LOAD FILE="../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Maps/ExampleProjectWelcome.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-15.25.15:834][  0]LogEditorServer: Warning: Can't find file '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Maps/ExampleProjectWelcome.umap'
+[2018.05.16-15.25.15:834][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-15.25.15:883][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.855ms to complete.
+[2018.05.16-15.25.15:883][  0]LogFileHelpers: Loading map 'ExampleProjectWelcome' took 0.050
+[2018.05.16-15.25.16:286][  0]LogCollectionManager: Loaded 0 collections in 0.002365 seconds
+[2018.05.16-15.25.16:423][  0]LogFileCache: Scanning file cache for directory 'D:/Downloads/Fundamentals/FundamentalsClasses/Saved/Collections/' took 0.01s
+[2018.05.16-15.25.16:423][  0]LogFileCache: Scanning file cache for directory 'D:/Downloads/Fundamentals/FundamentalsClasses/Content/Developers/wesbunn/Collections/' took 0.01s
+[2018.05.16-15.25.16:423][  0]LogFileCache: Scanning file cache for directory 'D:/Downloads/Fundamentals/FundamentalsClasses/Content/Collections/' took 0.01s
+[2018.05.16-15.25.16:423][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.16-15.25.16:440][  0]LogContentBrowser: Native class hierarchy populated in 0.0168 seconds. Added 2363 classes and 519 folders.
+[2018.05.16-15.25.16:531][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.16-15.25.18:242][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.16-15.25.18:388][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.16-15.25.18:614][  0]LogSlate: Took 0.007952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.16-15.25.18:624][  0]LogSlate: Took 0.007120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.16-15.25.18:650][  0]LogSlate: Took 0.012806 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.16-15.25.18:979][  0]LogRenderer: Reallocating scene render targets to support 1424x812 Format 9 NumSamples 1 (Frame:1).
+[2018.05.16-15.25.19:345][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.16-15.25.19:345][  0]LogLoad: (Engine Initialization) Total time: 85.49 seconds
+[2018.05.16-15.25.19:345][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.16-15.25.19:345][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.16-15.25.19:345][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.16-15.25.19:733][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.05.16-15.25.20:391][  2]LogAssetRegistry: Asset discovery search completed in 52.2817 seconds
+[2018.05.16-15.25.20:394][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.16-15.25.20:394][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000210 seconds (updated 0 objects)
+[2018.05.16-19.25.26:519][581]LogSlate: Took 0.012100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.16-19.25.27:416][581]LogSlate: Took 0.015295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.16-19.25.31:730][581]LogAIModule: Creating AISystem for world EssentialConcepts_Start
+[2018.05.16-19.25.48:240][  7]LightingResults: New page: Lighting Build
+[2018.05.16-19.25.49:757][  7]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0078 seconds. Added 5 classes and 0 folders.
+[2018.05.16-19.25.49:774][  7]LoadErrors: New page: Loading map: EssentialConcepts_Start.umap
+[2018.05.16-19.25.49:854][  7]MapCheck: New page: Map Check
+[2018.05.16-19.25.49:854][  7]LightingResults: New page: Lighting Build
+[2018.05.16-19.25.50:462][  7]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-19.25.50:567][  7]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-19.25.50:630][  7]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.863ms to complete.
+[2018.05.16-19.25.50:633][  7]LogFileHelpers: Loading map 'EssentialConcepts_Start' took 2.470
+[2018.05.16-19.26.23:432][454]LogAIModule: Creating AISystem for world EssentialConcepts_Start1
+[2018.05.16-19.28.06:471][747]LogSavePackage: Save=648.59ms
+[2018.05.16-19.28.06:471][747]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/EssentialConcepts_Start1D54D9702498F0C3759AE9DB69AFF2735.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/StartAssets/EssentialConcepts_Start1.umap'
+[2018.05.16-19.28.06:811][747]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/StartAssets/EssentialConcepts_Start1.umap
+[2018.05.16-19.28.06:854][747]LogFileHelpers: Saving map 'EssentialConcepts_Start1' took 1.167
+[2018.05.16-19.28.25:678][395]LogSavePackage: Save=481.44ms
+[2018.05.16-19.28.25:678][395]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/Blueprint_EssentialConcepts_Star05127C204A57B6E59ED36A93879EA228.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/StartAssets/Blueprint_EssentialConcepts_Start.umap'
+[2018.05.16-19.28.25:679][395]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/StartAssets/Blueprint_EssentialConcepts_Start.umap
+[2018.05.16-19.28.25:695][395]LogFileHelpers: Saving map 'Blueprint_EssentialConcepts_Start' took 0.609
+[2018.05.16-19.28.28:109][543]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/EssentialConcepts_Start1.EssentialConcepts_Start1_BuiltData'
+[2018.05.16-19.28.55:448][ 74]LogAIModule: Creating AISystem for world EssentialConcepts_Start
+[2018.05.16-19.29.13:151][632]LogSavePackage: Save=491.78ms
+[2018.05.16-19.29.13:151][632]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/Blueprint_EssentialConcepts_StarA7864A76412191001A8FDAAB0F1A816E.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/StartAssets/Blueprint_EssentialConcepts_Start.umap'
+[2018.05.16-19.29.13:153][632]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/StartAssets/Blueprint_EssentialConcepts_Start.umap
+[2018.05.16-19.29.13:168][632]LogFileHelpers: Saving map 'Blueprint_EssentialConcepts_Start' took 0.720
+[2018.05.16-19.29.18:147][813]LightingResults: New page: Lighting Build
+[2018.05.16-19.29.18:148][813]LoadErrors: New page: Loading map: Blueprint_EssentialConcepts_Start.umap
+[2018.05.16-19.29.18:149][813]MapCheck: New page: Map Check
+[2018.05.16-19.29.18:150][813]LightingResults: New page: Lighting Build
+[2018.05.16-19.29.18:406][813]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-19.29.18:448][813]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-19.29.18:518][813]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.676ms to complete.
+[2018.05.16-19.29.18:519][813]LogFileHelpers: Loading map 'Blueprint_EssentialConcepts_Start' took 0.375
+[2018.05.16-19.29.32:830][172]LogEditorViewport: Clicking on Actor (LMB): RoomDescription_C (BP_DemoDisplay7)
+[2018.05.16-19.29.33:569][189]LogEditorViewport: Clicking on Actor (LMB): RoomDescription_C (BP_DemoDisplay7)
+[2018.05.16-19.29.34:860][282]LogEditorViewport: Clicking on Actor (LMB): RoomDescription_C (BP_DemoDisplay7)
+[2018.05.16-19.29.35:785][344]LogSlate: Took 0.011207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.16-19.29.39:432][580]LogEditorViewport: Clicking on Actor (LMB): RoomDescription_C (BP_DemoDisplay7)
+[2018.05.16-19.29.39:983][618]LogEditorViewport: Clicking on Actor (LMB): RoomDescription_C (BP_DemoDisplay7)
+[2018.05.16-19.29.42:514][789]LogEditorViewport: Clicking on Actor (LMB): RoomDescription_C (BP_DemoDisplay7)
+[2018.05.16-19.29.42:998][810]LogEditorViewport: Clicking on Actor (LMB): RoomDescription_C (BP_DemoDisplay7)
+[2018.05.16-19.30.09:295][382]LogEditorViewport: Clicking on Actor (LMB): BP_DemoDisplay_C (BP_DemoDisplay)
+[2018.05.16-19.30.19:485][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.05.16-19.31.19:827][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.05.16-19.32.19:766][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GraphFrame)
+[2018.05.16-19.32.21:035][664]Cmd: DELETE
+[2018.05.16-19.32.21:036][664]Cmd: ACTOR DELETE
+[2018.05.16-19.32.21:286][664]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.16-19.32.21:302][664]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2018.05.16-19.32.21:910][725]LogEditorViewport: Clicking on Actor (LMB): BP_DemoDisplay_C (BP_DemoDisplay2)
+[2018.05.16-19.32.22:209][740]Cmd: DELETE
+[2018.05.16-19.32.22:209][740]Cmd: ACTOR DELETE
+[2018.05.16-19.32.22:212][740]LogEditorActor: Deleted Actor: BP_DemoDisplay_C
+[2018.05.16-19.32.22:229][740]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.05.16-19.32.22:795][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SubDivPlane)
+[2018.05.16-19.32.23:245][822]Cmd: DELETE
+[2018.05.16-19.32.23:246][822]Cmd: ACTOR DELETE
+[2018.05.16-19.32.23:248][822]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.16-19.32.23:269][822]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.05.16-19.32.24:599][962]LogEditorViewport: Clicking on Actor (LMB): BP_DemoRoom_C (BP_DemoRoom)
+[2018.05.16-19.32.25:391][ 16]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.05.16-19.32.27:230][129]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.05.16-19.32.27:971][179]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.05.16-19.32.28:289][200]Cmd: DELETE
+[2018.05.16-19.32.28:289][200]Cmd: ACTOR DELETE
+[2018.05.16-19.32.28:293][200]LogEditorActor: Deleted Actor: PostProcessVolume
+[2018.05.16-19.32.28:309][200]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.05.16-19.32.31:935][552]LogEditorViewport: Clicking on Actor (LMB): BP_DemoDisplay_C (BP_DemoDisplay3)
+[2018.05.16-19.32.33:687][664]Cmd: DELETE
+[2018.05.16-19.32.33:687][664]Cmd: ACTOR DELETE
+[2018.05.16-19.32.33:690][664]LogEditorActor: Deleted Actor: BP_DemoDisplay_C
+[2018.05.16-19.32.33:709][664]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.05.16-19.32.34:043][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Curtain)
+[2018.05.16-19.32.34:160][699]Cmd: DELETE
+[2018.05.16-19.32.34:160][699]Cmd: ACTOR DELETE
+[2018.05.16-19.32.34:163][699]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.16-19.32.34:182][699]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.05.16-19.32.34:861][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RoundCeilingLight)
+[2018.05.16-19.32.35:159][784]Cmd: DELETE
+[2018.05.16-19.32.35:159][784]Cmd: ACTOR DELETE
+[2018.05.16-19.32.35:162][784]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.16-19.32.35:179][784]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.05.16-19.32.35:671][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FieldGrass_01)
+[2018.05.16-19.32.36:051][857]Cmd: DELETE
+[2018.05.16-19.32.36:051][857]Cmd: ACTOR DELETE
+[2018.05.16-19.32.36:054][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.16-19.32.36:071][857]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.05.16-19.32.36:576][909]LogEditorViewport: Clicking on Actor (LMB): BP_DemoDisplay_C (BP_DemoDisplay4)
+[2018.05.16-19.32.36:898][927]Cmd: DELETE
+[2018.05.16-19.32.36:898][927]Cmd: ACTOR DELETE
+[2018.05.16-19.32.36:901][927]LogEditorActor: Deleted Actor: BP_DemoDisplay_C
+[2018.05.16-19.32.36:918][927]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.05.16-19.32.37:354][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue)
+[2018.05.16-19.32.37:814][  0]Cmd: DELETE
+[2018.05.16-19.32.37:814][  0]Cmd: ACTOR DELETE
+[2018.05.16-19.32.37:817][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.16-19.32.37:834][  0]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.05.16-19.32.38:278][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TV)
+[2018.05.16-19.32.38:416][ 49]Cmd: DELETE
+[2018.05.16-19.32.38:416][ 49]Cmd: ACTOR DELETE
+[2018.05.16-19.32.38:419][ 49]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.16-19.32.38:437][ 49]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.05.16-19.32.41:270][322]LogEditorViewport: Clicking on Actor (LMB): BP_DemoRoom_C (BP_DemoRoom)
+[2018.05.16-19.32.45:414][517]MapCheck: New page: Map Check
+[2018.05.16-19.32.45:477][517]LightingResults: New page: Lighting Build - May 16, 2018, 11:32:45 AM
+[2018.05.16-19.32.45:690][517]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.16-19.32.45:863][517]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.16-19.32.45:884][517]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.16-19.32.47:284][517]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.16-19.32.47:284][517]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10952
+[2018.05.16-19.32.48:981][517]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.16-19.32.48:981][517]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.16-19.32.48:981][517]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.16-19.32.48:981][517]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.16-19.32.48:981][517]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.16-19.32.49:474][517]LogEditorBuildUtils: Build time 0:04
+[2018.05.16-19.32.49:508][517]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_DemoWall_Inst, compiling. 
+[2018.05.16-19.32.49:614][517]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_DemoWall_Inst, compiling. 
+[2018.05.16-19.32.49:676][518]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_LightTube_Inst, compiling. 
+[2018.05.16-19.32.49:685][518]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_LightTube_Inst, compiling. 
+[2018.05.16-19.32.49:824][520]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_DemoWallPattern_Inst_Mirrored, compiling. 
+[2018.05.16-19.32.49:838][520]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_DemoWallPattern_Inst_Mirrored, compiling. 
+[2018.05.16-19.32.49:889][521]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_DemoRoomTiles_Inst, compiling. 
+[2018.05.16-19.32.49:903][521]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_DemoRoomTiles_Inst, compiling. 
+[2018.05.16-19.32.49:965][522]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_DemoWallPattern_Inst, compiling. 
+[2018.05.16-19.32.49:976][522]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_DemoWallPattern_Inst, compiling. 
+[2018.05.16-19.32.50:011][523]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_17, compiling. 
+[2018.05.16-19.32.50:025][523]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_17, compiling. 
+[2018.05.16-19.33.00:482][701]Lightmass on RENDER-SWARM-08: 3.82 sec total, 277 ms importing, 53 ms setup, 3.06 sec photons, 1 ms processing, 0 ms extra exporting [0/19 mappings]. Threads: 29 ms total, 0 ms processing.
+[2018.05.16-19.33.00:524][702]Lightmass on RENDER-SWARM-02: 3.83 sec total, 296 ms importing, 55 ms setup, 3.03 sec photons, 35 ms processing, 0 ms extra exporting [0/19 mappings]. Threads: 140 ms total, 0 ms processing.
+[2018.05.16-19.33.00:633][705]Lightmass on RENDER-SWARM-06: 3.84 sec total, 289 ms importing, 54 ms setup, 3.06 sec photons, 1 ms processing, 0 ms extra exporting [0/19 mappings]. Threads: 31 ms total, 0 ms processing.
+[2018.05.16-19.33.00:905][712]Lightmass on RENDER-SWARM-09: 4.42 sec total, 328 ms importing, 53 ms setup, 3.06 sec photons, 680 ms processing, 448 ms extra exporting [4/19 mappings]. Threads: 19.3 sec total, 2.13 sec processing.
+[2018.05.16-19.33.03:960][801]Job is a success!
+[2018.05.16-19.33.04:143][802]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.059s
+[2018.05.16-19.33.04:144][802]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.16-19.33.04:144][802]LogVolumetricLightmapImport:      BrickData 230x5x5 = 0.2Mb
+[2018.05.16-19.33.04:144][802]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.16-19.33.04:144][802]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2018.05.16-19.33.04:144][802]LogVolumetricLightmapImport:          1: 4.3% covering 3.1% of volume
+[2018.05.16-19.33.04:144][802]LogVolumetricLightmapImport:          2: 93.5% covering 1.0% of volume
+[2018.05.16-19.33.05:751][802]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.05.16-19.33.05:751][802]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.05.16-19.33.05:751][802]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.05.16-19.33.05:752][802]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.05.16-19.33.05:752][802]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.05.16-19.33.05:752][802]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.05.16-19.33.05:752][802]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.05.16-19.33.05:752][802]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.05.16-19.33.05:752][802]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.05.16-19.33.05:953][802]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.05.16-19.33.06:176][802]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2018.05.16-19.33.06:307][802]Lightmass on Z3913: 10.8 sec total, 253 ms importing, 88 ms setup, 2.06 sec photons, 8.39 sec processing, 0 ms extra exporting [15/19 mappings]. Threads: 1:31 min total, 50.3 sec processing.
+[2018.05.16-19.33.06:359][802]LogStaticLightingSystem: Illumination: 20.8 sec (1.45 sec encoding lightmaps, 417 ms encoding shadowmaps)
+[2018.05.16-19.33.06:359][802]LogStaticLightingSystem: Lightmap texture memory:  5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.05.16-19.33.06:359][802]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.05.16-19.33.06:947][802]DumpUnbuiltLightIteractions
+[2018.05.16-19.33.06:947][802]Lights with unbuilt interactions: 0
+[2018.05.16-19.33.06:947][802]
+[2018.05.16-19.33.06:947][802]Primitives with unbuilt interactions: 0
+[2018.05.16-19.33.06:961][803]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.16-19.33.06:961][803]MapCheck: New page: Blueprint_EssentialConcepts_Start - May 16, 2018, 11:33:06 AM
+[2018.05.16-19.33.07:082][803]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 120.337ms to complete.
+[2018.05.16-19.33.10:591][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.05.16-19.33.12:533][ 41]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.16-19.33.23:386][560]LogMaterial: Missing cached shader map for material M_GlasDoor, compiling. 
+[2018.05.16-19.33.23:529][560]LogMaterial: Warning: Material /Game/DemoRoom/Materials/M_GlasDoor.M_GlasDoor needed to have new flag set bUsedWithStaticLighting !
+[2018.05.16-19.33.23:535][560]LogMaterial: Missing cached shader map for material M_GlasDoor, compiling. 
+[2018.05.16-19.35.09:348][187]LogTexture: Display: Building textures: T_SlidingDoor_AOMask (DXT1, 2048X2048)
+[2018.05.16-19.35.09:348][187]LogMaterial: Missing cached shader map for material M_SlidingDoor_Mat, compiling. 
+[2018.05.16-19.35.10:921][187]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.05.16-19.35.11:032][187]LogMeshUtilities: Finished distance field build in 0.8s - 15x15x15 distance field, 960 triangles, Range [-0.2, 1.0], Sphere_inversenormals
+[2018.05.16-19.35.11:946][187]LogRenderer: Reallocating scene render targets to support 1912x1284 Format 9 NumSamples 1 (Frame:1).
+[2018.05.16-19.35.11:946][187]LogStaticMesh: Allocated 512x232x64 distance field atlas = 14.5Mb, with 78 objects containing 10.2Mb backing data
+[2018.05.16-19.35.14:280][191]LogMeshUtilities: Finished distance field build in 3.2s - 64x64x30 distance field, 10 triangles, Range [-0.1, 0.5], Floor_Mesh
+[2018.05.16-19.36.35:999][578]LogStaticMesh: Building static mesh SM_Doorframe...
+[2018.05.16-19.36.36:052][578]LogStaticMesh: Built static mesh [0.05s] /Game/ExampleContent/Blueprints/Meshes/SM_Doorframe.SM_Doorframe
+[2018.05.16-19.36.36:087][578]LogStaticMesh: Building static mesh SM_Door...
+[2018.05.16-19.36.36:112][578]LogStaticMesh: Built static mesh [0.03s] /Game/ExampleContent/Blueprints/Meshes/SM_Door.SM_Door
+[2018.05.16-19.36.36:122][578]LogMaterial: Missing cached shader map for material M_Orange_Shiny, compiling. 
+[2018.05.16-19.36.36:318][578]LogMeshUtilities: Finished distance field build in 0.1s - 8x27x40 distance field, 92 triangles, Range [-0.1, 0.5], SM_Doorframe
+[2018.05.16-19.36.36:581][582]LogMeshUtilities: Finished distance field build in 0.1s - 8x21x37 distance field, 476 triangles, Range [-0.0, 0.4], SM_Door
+[2018.05.16-19.36.38:394][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.BP_Door_C' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:395][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.SKEL_BP_Door_C:BndEvt__Trigger_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:395][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.SKEL_BP_Door_C:BndEvt__Trigger_K2Node_ComponentBoundEvent_30_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:395][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.SKEL_BP_Door_C:Open direction' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:395][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.SKEL_BP_Door_C:Swing open' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:395][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.SKEL_BP_Door_C:Swing closed' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:395][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.SKEL_BP_Door_C:Doorframe' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:395][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.SKEL_BP_Door_C:Door' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:395][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.SKEL_BP_Door_C:Trigger' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:396][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.SKEL_BP_Door_C:UserConstructionScript' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:396][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.SKEL_BP_Door_C' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:396][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.BP_Door_C:Open direction' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:396][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.BP_Door_C:Swing open' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:396][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.BP_Door_C:Swing closed' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:396][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.BP_Door_C:Doorframe' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:396][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.BP_Door_C:Door' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:396][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.BP_Door_C:Trigger' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:396][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.BP_Door_C:UserConstructionScript' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:397][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:397][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.BP_Door_C:BndEvt__Trigger_K2Node_ComponentBoundEvent_30_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:397][636]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.BP_Door_C:BndEvt__Trigger_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/ExampleContent/Blueprints/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.36.38:655][636]LogSavePackage: Save=174.38ms
+[2018.05.16-19.36.38:655][636]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/BP_DoorABE1111D4097C70724230093DB97BF35.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.uasset'
+[2018.05.16-19.36.38:657][636]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.uasset
+[2018.05.16-19.36.56:083][417]LogSavePackage: Save=18.76ms
+[2018.05.16-19.36.56:083][417]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/M_Orange_ShinyDBFACE2843456C6360D304B8901F65B1.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Materials/M_Orange_Shiny.uasset'
+[2018.05.16-19.36.56:084][417]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Materials/M_Orange_Shiny.uasset
+[2018.05.16-19.36.56:301][417]LogSavePackage: Save=15.30ms
+[2018.05.16-19.36.56:301][417]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/SM_DoorDD2CE8614CFFD4A57579A8849AFE24AA.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/ExampleContent/Blueprints/Meshes/SM_Door.uasset'
+[2018.05.16-19.36.56:301][417]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/ExampleContent/Blueprints/Meshes/SM_Door.uasset
+[2018.05.16-19.36.56:448][417]LogSavePackage: Save=16.61ms
+[2018.05.16-19.36.56:449][417]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/SM_Doorframe3F0E44444482578497AD70A48A245203.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Meshes/SM_Doorframe.uasset'
+[2018.05.16-19.36.56:450][417]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Meshes/SM_Doorframe.uasset
+[2018.05.16-19.36.56:489][417]LogSavePackage: Save=15.47ms
+[2018.05.16-19.36.56:490][417]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/SM_Door23A60A0C4A640EBCEF3303B5B8B65F7B.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Meshes/SM_Door.uasset'
+[2018.05.16-19.36.56:491][417]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Meshes/SM_Door.uasset
+[2018.05.16-19.36.56:823][417]LogSavePackage: Save=94.32ms
+[2018.05.16-19.36.56:823][417]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/BP_Door15286784479CC4CF8F5E5C865F4A1F44.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.uasset'
+[2018.05.16-19.36.56:825][417]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.uasset
+[2018.05.16-19.37.22:636][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.BP_Door_C' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:636][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.BP_Door_C:BndEvt__Trigger_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:636][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.BP_Door_C:BndEvt__Trigger_K2Node_ComponentBoundEvent_30_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:636][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:636][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.BP_Door_C:Trigger' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:636][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.BP_Door_C:Door' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:636][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.BP_Door_C:Doorframe' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:636][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.BP_Door_C:Swing closed' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:636][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.BP_Door_C:Swing open' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:636][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.BP_Door_C:Open direction' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:636][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.BP_Door_C:UserConstructionScript' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:636][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.SKEL_BP_Door_C' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:637][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.SKEL_BP_Door_C:BndEvt__Trigger_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:637][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.SKEL_BP_Door_C:BndEvt__Trigger_K2Node_ComponentBoundEvent_30_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:637][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.SKEL_BP_Door_C:Open direction' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:637][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.SKEL_BP_Door_C:Swing open' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:637][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.SKEL_BP_Door_C:Swing closed' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:637][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.SKEL_BP_Door_C:Doorframe' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:637][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.SKEL_BP_Door_C:Door' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:637][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.SKEL_BP_Door_C:Trigger' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:637][735]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.SKEL_BP_Door_C:UserConstructionScript' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/BP_Door.PackageMetaData'
+[2018.05.16-19.37.22:782][735]LogSavePackage: Save=93.36ms
+[2018.05.16-19.37.22:782][735]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/BP_DoorB63B8BAA4952593CA6FA7F8B67BA406B.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.uasset'
+[2018.05.16-19.37.22:783][735]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.uasset
+[2018.05.16-19.38.01:490][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.05.16-19.38.02:325][ 18]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door)
+[2018.05.16-19.38.05:422][165]EditorErrors: New page: Actor Reattachment
+[2018.05.16-19.38.08:011][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.05.16-19.38.08:925][402]Cmd: DELETE
+[2018.05.16-19.38.08:925][402]Cmd: ACTOR DELETE
+[2018.05.16-19.38.08:928][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.16-19.38.08:945][402]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.05.16-19.38.11:240][620]LogEditorViewport: Clicking on Actor (LMB): BP_DemoDisplay_C (BP_DemoDisplay)
+[2018.05.16-19.38.15:180][889]LogEditorViewport: Clicking on Actor (LMB): BP_DemoDisplay_C (BP_DemoDisplay)
+[2018.05.16-19.38.40:169][722]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (SM_Door)
+[2018.05.16-19.38.45:956][134]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DemoDisplay_C (BP_DemoDisplay)
+[2018.05.16-19.38.57:735][940]LogEditorViewport: Clicking on Actor (LMB): BP_DemoDisplay_C (BP_DemoDisplay2)
+[2018.05.16-19.39.16:504][ 80]LogEditorViewport: Clicking on Actor (LMB): BP_DemoDisplay_C (BP_DemoDisplay3)
+[2018.05.16-19.39.29:725][955]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-19.39.29:841][955]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.16-19.39.29:876][955]LogPlayLevel: [PlayLevel] Compiling BP_Door before play...
+[2018.05.16-19.39.30:599][955]LogPlayLevel: PlayLevel: Blueprint regeneration took 757 ms (1 blueprints)
+[2018.05.16-19.39.30:652][955]PIE: New page: PIE session: Blueprint_EssentialConcepts_Start (May 16, 2018, 11:39:30 AM)
+[2018.05.16-19.39.30:665][955]LogPlayLevel: Creating play world package: /Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/UEDPIE_0_Blueprint_EssentialConcepts_Start
+[2018.05.16-19.39.30:672][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006801s)
+[2018.05.16-19.39.30:673][955]LogAIModule: Creating AISystem for world Blueprint_EssentialConcepts_Start
+[2018.05.16-19.39.30:685][955]LogPlayLevel: PIE: World Init took: (0.013114s)
+[2018.05.16-19.39.30:685][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/Blueprint_EssentialConcepts_Start.Blueprint_EssentialConcepts_Start to /Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/UEDPIE_0_Blueprint_EssentialConcepts_Start.Blueprint_EssentialConcepts_Start (0.020944s)
+[2018.05.16-19.39.30:744][955]LogInit: XAudio2 using 'Speakers (Logitech G35 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-19.39.30:777][955]LogInit: FAudioDevice initialized.
+[2018.05.16-19.39.30:833][955]LogLoad: Game class is 'Fundamentals_GM_C'
+[2018.05.16-19.39.30:932][955]LogWorld: Bringing World /Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/UEDPIE_0_Blueprint_EssentialConcepts_Start.Blueprint_EssentialConcepts_Start up for play (max tick rate 0) at 2018.05.16-15.39.30
+[2018.05.16-19.39.30:959][955]LogWorld: Bringing up level for play took: 0.031620
+[2018.05.16-19.39.31:076][955]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.05.16-19.39.31:077][955]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.16-19.39.31:077][955]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.16-19.39.31:077][955]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.16-19.39.31:161][955]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.16-19.39.31:161][955]PIE: Play in editor start time for /Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/UEDPIE_0_Blueprint_EssentialConcepts_Start 0.771
+[2018.05.16-19.39.46:356][326]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (SM_Door)
+[2018.05.16-19.39.50:049][510]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.05.16-19.39.52:288][510]LogSlate: Took 0.011488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.16-19.40.08:336][ 70]LogSavePackage: Save=79.64ms
+[2018.05.16-19.40.08:336][ 70]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/BP_Door70B7DD8E4B7C2F3DBFF7918D40C9CBA7.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.uasset'
+[2018.05.16-19.40.08:337][ 70]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.uasset
+[2018.05.16-19.40.11:673][174]LogSavePackage: Save=77.73ms
+[2018.05.16-19.40.11:673][174]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/BP_Door0C40858043F4DEC1042D73AE3173A2BC.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.uasset'
+[2018.05.16-19.40.11:674][174]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.uasset
+[2018.05.16-19.40.30:522][389]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_Script.BP_Door_Script_C' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.40.30:522][389]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_Script.SKEL_BP_Door_Script_C' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door.PackageMetaData'
+[2018.05.16-19.40.30:673][389]LogSavePackage: Save=95.76ms
+[2018.05.16-19.40.30:673][389]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/BP_Door_Script4D61A11B46D9C067CBCBF9BB34685173.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_Script.uasset'
+[2018.05.16-19.40.30:674][389]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_Script.uasset
+[2018.05.16-19.40.33:885][577]LogEditorViewport: Clicking on Actor (LMB): BP_Door_Script_C (SM_Door)
+[2018.05.16-19.40.46:185][399]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_With_Script.BP_Door_With_Script_C' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_Script.PackageMetaData'
+[2018.05.16-19.40.46:185][399]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_With_Script.SKEL_BP_Door_With_Script_C' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_Script.PackageMetaData'
+[2018.05.16-19.40.46:337][399]LogSavePackage: Save=95.27ms
+[2018.05.16-19.40.46:337][399]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/BP_Door_With_Script2628ACAC4B06FA097AB82BA81CF340A1.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_With_Script.uasset'
+[2018.05.16-19.40.46:339][399]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_With_Script.uasset
+[2018.05.16-19.40.49:541][611]LogEditorViewport: Clicking on Actor (context menu): BP_Door_With_Script_C (SM_Door)
+[2018.05.16-19.40.50:711][658]EditorErrors: New page: Actor Reattachment
+[2018.05.16-19.40.52:848][797]LogEditorViewport: Clicking on Actor (LMB): BP_Door_With_Script_C (SM_Door2)
+[2018.05.16-19.40.59:510][210]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_WithoutScript.SKEL_BP_Door_WithoutScript_C' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_NoScript.PackageMetaData'
+[2018.05.16-19.40.59:511][210]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_WithoutScript.BP_Door_WithoutScript_C' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_NoScript.PackageMetaData'
+[2018.05.16-19.40.59:658][210]LogSavePackage: Save=96.46ms
+[2018.05.16-19.40.59:658][210]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/BP_Door_WithoutScript85EE73C2469E1036EE06DC9AD370A4D3.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_WithoutScript.uasset'
+[2018.05.16-19.40.59:660][210]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_WithoutScript.uasset
+[2018.05.16-19.41.05:708][486]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_WithScript.BP_Door_WithScript_C' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_With_Script.PackageMetaData'
+[2018.05.16-19.41.05:708][486]LogMetaData: Removing '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_WithScript.SKEL_BP_Door_WithScript_C' ref from Metadata '/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_With_Script.PackageMetaData'
+[2018.05.16-19.41.05:855][486]LogSavePackage: Save=94.52ms
+[2018.05.16-19.41.05:855][486]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/BP_Door_WithScript6CA7A691495AC9659A1E09B4DD956B8D.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_WithScript.uasset'
+[2018.05.16-19.41.05:857][486]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_WithScript.uasset
+[2018.05.16-19.41.10:019][747]LogEditorViewport: Clicking on Actor (LMB): BP_Door_WithScript_C (SM_Door)
+[2018.05.16-19.41.10:823][805]LogEditorViewport: Clicking on Actor (LMB): BP_DemoDisplay_C (BP_DemoDisplay)
+[2018.05.16-19.41.17:611][212]LogEditorViewport: Clicking on Actor (LMB): BP_Door_WithScript_C (SM_Door)
+[2018.05.16-19.41.19:656][319]LogEditorViewport: Clicking on Actor (LMB): BP_Door_WithScript_C (SM_Door)
+[2018.05.16-19.41.20:041][345]LogEditorViewport: Clicking on Actor (context menu): BP_Door_WithScript_C (SM_Door)
+[2018.05.16-19.41.21:344][394]EditorErrors: New page: Actor Reattachment
+[2018.05.16-19.41.22:978][491]LogEditorViewport: Clicking on Actor (LMB): BP_Door_WithScript_C (SM_Door2)
+[2018.05.16-19.41.23:503][526]LogEditorViewport: Clicking on Actor (context menu): BP_Door_WithScript_C (SM_Door2)
+[2018.05.16-19.41.26:250][663]LogEditorViewport: Clicking on Actor (context menu): BP_Door_WithScript_C (SM_Door2)
+[2018.05.16-19.41.27:231][700]EditorErrors: New page: Actor Reattachment
+[2018.05.16-19.41.42:065][226]BlueprintLog: New page: Compile BP_Door_WithoutScript
+[2018.05.16-19.41.43:507][245]LogSavePackage: Save=25.92ms
+[2018.05.16-19.41.43:507][245]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/BP_Door_WithoutScriptE777E9C44E4FE8B65699C8B5B42FE0D8.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_WithoutScript.uasset'
+[2018.05.16-19.41.43:509][245]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Content/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Blueprints/BP_Door_WithoutScript.uasset
+[2018.05.16-19.42.28:075][950]LogSavePackage: Save=399.77ms
+[2018.05.16-19.42.28:075][950]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/Blueprint_EssentialConcepts_Star3A0BE4D943EE9D05F4ECAB9C891AC9C2.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/Autosaves/Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/Blueprint_EssentialConcepts_Start_Auto1.umap'
+[2018.05.16-19.42.28:076][950]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/Autosaves/Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/Blueprint_EssentialConcepts_Start_Auto1.umap
+[2018.05.16-19.42.28:078][950]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/Blueprint_EssentialConcepts_Start' took 0.493
+[2018.05.16-19.42.28:078][950]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.493
+[2018.05.16-19.42.28:104][950]LogExec: Warning: Missing filename
+[2018.05.16-19.42.28:105][950]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemoRoom/Materials/M_GlasDoor] ([1] browsable assets)...
+[2018.05.16-19.42.28:124][950]OBJ SavePackage:     Rendered thumbnail for [Material /Game/DemoRoom/Materials/M_GlasDoor.M_GlasDoor]
+[2018.05.16-19.42.28:124][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemoRoom/Materials/M_GlasDoor]
+[2018.05.16-19.42.28:183][950]LogSavePackage: Save=56.00ms
+[2018.05.16-19.42.28:183][950]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/M_GlasDoor_Auto1D9D5FBCD439D9912841058B19A410279.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/Autosaves/Game/DemoRoom/Materials/M_GlasDoor_Auto1.uasset'
+[2018.05.16-19.42.28:184][950]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/Autosaves/Game/DemoRoom/Materials/M_GlasDoor_Auto1.uasset
+[2018.05.16-19.42.28:185][950]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/Blueprint_EssentialConcepts_Start_BuiltData] ([1] browsable assets)...
+[2018.05.16-19.42.28:185][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/Blueprint_EssentialConcepts_Start_BuiltData]
+[2018.05.16-19.42.28:215][950]LogSavePackage: Save=29.04ms
+[2018.05.16-19.42.28:215][950]LogSavePackage: Moving '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/Blueprint_EssentialConcepts_Star6D385E9E4D789F27A6A766A8D54BCEDD.tmp' to '../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/Autosaves/Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/Blueprint_EssentialConcepts_Start_BuiltData_Auto1.uasset'
+[2018.05.16-19.42.28:216][950]LogSavePackage: Display: Finished SavePackage ../../../../Downloads/Fundamentals/FundamentalsClasses/Saved/Autosaves/Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/Blueprint_EssentialConcepts_Start_BuiltData_Auto1.uasset
+[2018.05.16-19.42.28:913][950]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.682 s
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: 
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SavePackage.cpp] [Line: 4450]
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: Attempting to save a map package '/Game/Fundamentals/Blueprints/EssentialConcepts/StartAssets/EssentialConcepts_Start1' that does not contain a map object.
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: Stack: 
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x0000000098C42786 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x00000000989E123A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x00000000989FB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x000000009F152459 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x000000009164EB8D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x000000009164F5E8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x000000009168B090 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x0000000091687AE8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x0000000091F1BAC9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x000000009193482F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x0000000091BA5108 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x0000000091F04B41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.16-19.42.28:914][950]LogOutputDevice: Error: [Callstack] 0x000000003F745A26 UE4Editor.exe!UnknownFunction []
+[2018.05.16-19.42.28:915][950]LogOutputDevice: Error: [Callstack] 0x000000003F755430 UE4Editor.exe!UnknownFunction []
+[2018.05.16-19.42.28:915][950]LogOutputDevice: Error: [Callstack] 0x000000003F7554AA UE4Editor.exe!UnknownFunction []
+[2018.05.16-19.42.28:915][950]LogOutputDevice: Error: [Callstack] 0x000000003F762379 UE4Editor.exe!UnknownFunction []
+[2018.05.16-19.42.28:915][950]LogOutputDevice: Error: [Callstack] 0x000000003F763D57 UE4Editor.exe!UnknownFunction []
+[2018.05.16-19.42.28:915][950]LogOutputDevice: Error: [Callstack] 0x0000000076D559CD kernel32.dll!UnknownFunction []
+[2018.05.16-19.42.28:915][950]LogOutputDevice: Error: [Callstack] 0x0000000076FB383D ntdll.dll!UnknownFunction []
+[2018.05.16-19.42.28:915][950]LogOutputDevice: Error: 
+[2018.05.16-19.42.28:918][950]LogStats:                SubmitErrorReport -  0.000 s
